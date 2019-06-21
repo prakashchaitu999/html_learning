@@ -1,0 +1,27 @@
+.wrap {
+    min-width: 600px;
+    width: 80%;
+    margin: auto;
+    background: green;
+    
+
+}
+.content{
+    width: 80%;
+    float: left;
+    background: red;
+
+}
+.sidebar{
+    background: brown;
+    float: left;
+    width: 200px
+}
+.sidebar{
+    list-style: none;
+    padding-left: 0;
+}
+.content,.sidebar{
+    height: 600px;
+
+}
